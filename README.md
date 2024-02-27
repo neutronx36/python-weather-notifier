@@ -25,17 +25,17 @@ To run this application, you need to have Python installed on your system along 
 
   - Run At Background
     
-   ```bash
-   pythonw weather.py
-   ```
+      ```bash
+      pythonw weather.py
+      ```
 
-        OR
+   OR
   
   - Run Normally
 
-   ```bash
-   python weather.py
-   ```
+      ```bash
+      python weather.py
+      ```
 
 ## Contributing 🤝
 
