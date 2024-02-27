@@ -29,7 +29,7 @@ To run this application, you need to have Python installed on your system along 
    pythonw weather.py
    ```
 
-  OR
+        OR
   
   - Run Normally
 
